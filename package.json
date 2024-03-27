@@ -35,6 +35,7 @@
     "chromatic": "npx chromatic --project-token=chpt_531ac6408c43457"
   },
   "devDependencies": {
+    "@storybook/addon-controls": "^8.0.4",
     "@storybook/addon-essentials": "^7.6.6",
     "@storybook/addon-interactions": "^7.6.6",
     "@storybook/addon-links": "^7.6.6",
